@@ -46,12 +46,12 @@
 
 ## 💡 The App Concept
 
-### App Name: **ReLoop**
+### App Name: **EventLoop**
 
 > **Tagline:** *Scan. Recycle. Share. Repeat.*  
 > **Niche Focus:** Event & Creative Project Materials  
 
-ReLoop is a circular economy mobile app focused on **event materials** and **creative project supplies**. It targets two user groups:
+EventLoop is a circular economy mobile app focused on **event materials** and **creative project supplies**. It targets two user groups:
 
 | User Group | Examples | Pain Point |
 |-----------|---------|------------|
@@ -72,7 +72,7 @@ ReLoop is a circular economy mobile app focused on **event materials** and **cre
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                     ReLoop App                                   │
+│                     EventLoop App                                   │
 │          Event & Creative Materials Circular Economy              │
 │                                                                  │
 │   🔍 SCAN            ♻️ MARKETPLACE       🤝 SHARE              │
@@ -92,7 +92,7 @@ ReLoop is a circular economy mobile app focused on **event materials** and **cre
 
 ### SDG 12 Alignment & Design Components
 
-| Assignment Requirement | How ReLoop Addresses It |
+| Assignment Requirement | How EventLoop Addresses It |
 |----------------------|------------------------|
 | **P2P Resource Optimisation** | ✅ Equipment lending — share PA systems, projectors, craft tools between campus clubs & creators |
 | **Behavioural Transformation** | ✅ AI scanner educates users on material recycling/upcycling; gamified eco-score nudges reuse habits |
@@ -169,7 +169,7 @@ Image preprocessed (compress to 1024px, convert to base64)
 Send to Gemini 2.5 Flash Vision API
 ┌──────────────────────────────────────────────────────────────┐
 │  System Prompt:                                               │
-│  "You are ReLoop AI, an expert in event materials, creative   │
+│  "You are EventLoop AI, an expert in event materials, creative   │
 │   supplies, and circular economy. You specialise in           │
 │   identifying materials commonly used in events, exhibitions, │
 │   cosplay, and DIY projects. Provide practical recycling and  │
@@ -687,7 +687,7 @@ App Launch
 | **Themed Colors** | All colours derived from the green theme; consistent throughout |
 | **Micro-animations** | Smooth transitions (300ms), haptic feedback, parallax scroll |
 
-### Color Palette — ReLoop (Nature Green) 🟢
+### Color Palette — EventLoop (Nature Green) 🟢
 
 | Token | Color | Usage |
 |-------|-------|-------|
@@ -806,7 +806,7 @@ Tab Bar (5 tabs):
 | Task | Owner | Deliverable |
 |------|-------|-------------|
 | Read & understand assignment requirements | All | Shared understanding |
-| Confirm app name (ReLoop) and niche (Event + Creative) | All | Decision locked |
+| Confirm app name (EventLoop) and niche (Event + Creative) | All | Decision locked |
 | Create GitHub repository + invite all members | Member A | Repo URL |
 | Register Huawei Developer account | Member D | Account created |
 | Set up Expo project with TypeScript boilerplate | Member A | `npx create-expo-app` done |

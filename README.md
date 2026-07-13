@@ -1,4 +1,4 @@
-# 🌿 ReLoop — Circular Economy for Event & Creative Materials
+# 🌿 EventLoop — Circular Economy for Event & Creative Materials
 
 > **Course Project:** UCCD3223 Mobile Applications Development (June 2026 Trimester)  
 > **University:** Universiti Tunku Abdul Rahman (UTAR)  
@@ -6,7 +6,7 @@
 > **Niche:** Event Materials & Creative Project Supplies  
 > **Group Size:** 4 Members  
 
-ReLoop is a mobile application that closes the loop on **event and creative project waste**. Targeting campus event organizers, exhibition planners, cosplayers, and DIY makers, ReLoop uses **Gemini AI** to scan and identify materials, connects users through a **material marketplace** to sell or donate leftovers, and enables **peer-to-peer equipment lending** to reduce overconsumption — all wrapped in a sleek, glassmorphic iOS-style interface.
+EventLoop is a mobile application that closes the loop on **event and creative project waste**. Targeting campus event organizers, exhibition planners, cosplayers, and DIY makers, EventLoop uses **Gemini AI** to scan and identify materials, connects users through a **material marketplace** to sell or donate leftovers, and enables **peer-to-peer equipment lending** to reduce overconsumption — all wrapped in a sleek, glassmorphic iOS-style interface.
 
 ---
 
@@ -59,7 +59,7 @@ ReLoop is a mobile application that closes the loop on **event and creative proj
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/Kendrew1119/ReLoop-Circular-Economy-Sustainable-Consumption-Mobile-App.git
+git clone https://github.com/Kendrew1119/EventLoop-Circular-Economy-Sustainable-Consumption-Mobile-App.git
 cd mobileapp
 ```
 
